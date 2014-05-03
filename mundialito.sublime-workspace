@@ -1,0 +1,180 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sirgt/Projects/XYZ/puppet/modules/cron/files/geoipupdate.sh",
+		"/home/sirgt/Projects/XYZ/puppet/modules/cron/files/medusa/planchado-url-demanda.sh",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/sample_app/Gemfile",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/sample_app/Guardfile",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/sample_app/spec/spec_helper.rb",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/sample_app/config/database.yml",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/sample_app/spec/features/static_pages_spec.rb",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/sample_app/app/views/static_pages/contact.html.erb",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/sample_app/app/views/static_pages/about.html.erb",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/sample_app/app/views/static_pages/help.html.erb",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/sample_app/app/views/static_pages/home.html.erb",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/sample_app/app/views/layouts/application.html.erb",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/sample_app/spec/requests/static_pages_spec.rb",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/sample_app/app/controllers/static_pages_controller.rb",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/sample_app/config/routes.rb",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/sample_app/README.md",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/sample_app/README.rdoc",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/sample_app/config/initializers/secret_token.rb",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/demo_app/Gemfile",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/demo_app/app/models/user.rb",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/demo_app/app/models/micropost.rb",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/first_app/Gemfile",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/first_app/README.md",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/first_app/.gitignore",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/first_app/.ruby-version",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/first_app/.ruby-gemset",
+		"/home/sirgt/Projects/Chapinware/Ruby/rails-tutorial/first_app/.ruby-ver",
+		"/home/sirgt/Projects/XYZ/puppet/manifests/nodes/wikipedia01-ES.pp",
+		"/home/sirgt/Projects/XYZ/puppet/manifests/nodes/wikipedia01-en.pp",
+		"/home/sirgt/Projects/XYZ/puppet/manifests/nodes/wikipedia02-de.pp",
+		"/home/sirgt/Projects/XYZ/puppet/manifests/nodes/wikipedia02-it.pp",
+		"/home/sirgt/Projects/XYZ/puppet/manifests/nodes/wikipedia02-pt.pp",
+		"/home/sirgt/Projects/XYZ/puppet/modules/apache/files/rewrites/pt.picmag.orange.com.conf",
+		"/home/sirgt/Projects/XYZ/puppet/modules/apache/files/rewrites/de.picmag.orange.com.conf",
+		"/home/sirgt/Projects/XYZ/puppet/modules/apache/files/rewrites/es.picmag.orange.com.conf",
+		"/home/sirgt/Projects/XYZ/puppet/modules/apache/files/rewrites/en.picmag.orange.com.conf",
+		"/home/sirgt/Projects/XYZ/puppet/modules/apache/files/rewrites/it.picmag.orange.com.conf",
+		"/home/sirgt/Projects/XYZ/puppet/manifests/nodes/ned04.pp",
+		"/home/sirgt/Projects/Ruby/r2t2/r2t2.sublime-project",
+		"/home/sirgt/Projects/Ruby/r2t2/.gitignore",
+		"/home/sirgt/Projects/Ruby/twitto/.gitignore",
+		"/home/sirgt/Projects/Ruby/rependous/Gemfile",
+		"/home/sirgt/Projects/Ruby/rependous/.gitignore"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rependous"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true
+}
